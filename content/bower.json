@@ -1,0 +1,24 @@
+{
+  "name": "soptify",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cavilarts/octo-spoty-bone",
+  "authors": [
+    "Carlos Avila <cavilart21@gmail.com>"
+  ],
+  "description": "deendencies",
+  "main": "bower.json",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.17",
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.4",
+    "marionette": "~2.4.1"
+  }
+}
